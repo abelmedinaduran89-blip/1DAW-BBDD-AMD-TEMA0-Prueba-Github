@@ -6,6 +6,6 @@
 * BBDD
 * PROG
 
-Abel Medina Durán
+*Abel Medina Durán*
 
 *Base de datos*
